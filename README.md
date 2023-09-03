@@ -6,4 +6,6 @@ Implementation of YouTube search with infinite scrolling
 
 - ReactJS
 - Parcel
-- YouTube API  
+- YouTube API
+- Babel
+- jest, React Testing Library
